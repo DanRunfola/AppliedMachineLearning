@@ -49,6 +49,8 @@ jupyter notebook
 Note: in some cases, you may need to run conda install nbconvert=5.4.1
 
 ### Installation Notes for the Brave
+I will not help you with this.  Godspeed.
+
 On ubuntu or other debian based systems, you can compile 3.5 using:
 sudo apt-get install make build-essential libssl-dev zlib1g-dev libbz2-dev libsqlite3-dev openssl 
 wget https://www.python.org/ftp/python/3.5.4/Python-3.5.4.tgz
