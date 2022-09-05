@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="goout <= 0.298\nmse = 1.693\nsamples = 783\nvalue = 2.303"] ;
+1 [label="goout <= -0.568\nmse = 1.13\nsamples = 488\nvalue = 1.916"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="traveltime <= 2.77\nmse = 1.019\nsamples = 241\nvalue = 1.71"] ;
+1 -> 2 ;
+3 [label="mse = 0.944\nsamples = 236\nvalue = 1.686"] ;
+2 -> 3 ;
+4 [label="mse = 3.36\nsamples = 5\nvalue = 2.8"] ;
+2 -> 4 ;
+5 [label="higher <= -1.439\nmse = 1.156\nsamples = 247\nvalue = 2.117"] ;
+1 -> 5 ;
+6 [label="mse = 0.729\nsamples = 15\nvalue = 3.067"] ;
+5 -> 6 ;
+7 [label="mse = 1.122\nsamples = 232\nvalue = 2.056"] ;
+5 -> 7 ;
+8 [label="goout <= 1.164\nmse = 1.966\nsamples = 295\nvalue = 2.942"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="absences <= 1.68\nmse = 1.803\nsamples = 173\nvalue = 2.705"] ;
+8 -> 9 ;
+10 [label="mse = 1.74\nsamples = 161\nvalue = 2.615"] ;
+9 -> 10 ;
+11 [label="mse = 1.076\nsamples = 12\nvalue = 3.917"] ;
+9 -> 11 ;
+12 [label="failures <= 0.368\nmse = 2.004\nsamples = 122\nvalue = 3.279"] ;
+8 -> 12 ;
+13 [label="mse = 2.031\nsamples = 94\nvalue = 3.106"] ;
+12 -> 13 ;
+14 [label="mse = 1.48\nsamples = 28\nvalue = 3.857"] ;
+12 -> 14 ;
+}
