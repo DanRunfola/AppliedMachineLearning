@@ -84,3 +84,7 @@ After you setup your venv, you should be able to select it as a kernel in jupyte
 Note that depending on your Jupyter install, you may need to register the new venv. 
 In vscode, this is controlled by the setting: python.venvPath
 
+# HPC
+
+See: https://hmbaier.gitbook.io/distributed-ml-w-and-m/
+Also, in miscExamples/HPC in this repository
