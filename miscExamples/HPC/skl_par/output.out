@@ -1,0 +1,12 @@
+
+Thu Sep 08 2022 13:17:10 EDT: /usr/local/seoul/linux-centos7-piledriver/intel-18.0.5/mvapich2-2.3.1-m2no/bin/mpirun_rsh -rsh -np 1 -hostfile /tmp/mvp2run.hosts.28604  MV2_ENABLE_AFFINITY=1 MV2_SMP_USE_LIMIC2=0 MV2_SMP_USE_CMA=0 /sciclone/home20/dsmillerrunfol/.conda/envs/aml35/bin/python simplePar.py
+
+PYTHONPATH: Undefined variable.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+27.136 seconds (1 core)
+8.407 seconds (12 cores)
+
+Thu Sep 08 2022 13:17:48 EDT: execution complete; exiting with status = 0.
