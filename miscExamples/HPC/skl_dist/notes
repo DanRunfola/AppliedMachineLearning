@@ -1,0 +1,4 @@
+conda install -c conda-forge mpi4py
+conda install ipyparallel
+
+Note as of today (9-12-22) you must install ipyparallel from forge to get Cluster capabilities.

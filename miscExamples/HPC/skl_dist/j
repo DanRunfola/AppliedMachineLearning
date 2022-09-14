@@ -1,0 +1,18 @@
+#!/bin/tcsh
+#PBS -N demojob
+#PBS -l nodes=2:vortex:ppn=12
+#PBS -l walltime=00:30:00
+#PBS -j oe
+
+source "/usr/local/anaconda3-2021.05/etc/profile.d/conda.csh"
+module load anaconda3/2021.05
+module load python/usermodules
+module load mvapich2-ib
+
+unsetenv PYTHONPATH
+
+conda activate aml35
+
+cd dml
+cd skl_dist
+mvp2run python dist_cluster.py >& output.out

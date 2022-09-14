@@ -1,0 +1,126 @@
+
+Mon Sep 12 2022 13:49:00 EDT: /usr/local/seoul/linux-centos7-piledriver/intel-18.0.5/mvapich2-2.3.1-m2no/bin/mpirun_rsh -rsh -np 24 -hostfile /tmp/mvp2run.hosts.5230  MV2_ENABLE_AFFINITY=1 MV2_SMP_USE_LIMIC2=0 MV2_SMP_USE_CMA=0 /sciclone/home20/dsmillerrunfol/.conda/envs/aml35/bin/python dist_cluster.py
+
+PYTHONPATH: Undefined variable.
+PYTHONPATH: Undefined variable.
+WARNING: Error in initializing MVAPICH2 ptmalloc library.Continuing without InfiniBand registration cache support.
+I am the rank 0 node.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (3) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (13) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (2) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (23) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (5) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (21) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (20) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (4) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (19) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (22) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (15) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (11) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (9) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (12) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (18) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (16) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (17) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (14) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (8) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (10) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (7) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (6) have received 42 parameters to test.
+/sciclone/home20/dsmillerrunfol/.conda/envs/aml35/lib/python3.5/site-packages/sklearn/utils/validation.py:475: DataConversionWarning: Data with input dtype int64 was converted to float64 by StandardScaler.
+  warnings.warn(msg, DataConversionWarning)
+I (1) have received 42 parameters to test.
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+
+Mon Sep 12 2022 13:49:51 EDT: execution complete; exiting with status = 0.
